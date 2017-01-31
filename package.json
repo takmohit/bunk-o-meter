@@ -1,0 +1,28 @@
+{
+  "name": "bunk-o-meter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -wd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarmj/bunk-o-meter.git"
+  },
+  "author": "Manoj Kumar, Mohit Tak, Chahat Aggrawal, Pushkar Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarmj/bunk-o-meter/issues"
+  },
+  "homepage": "https://github.com/kumarmj/bunk-o-meter#readme",
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.2.1"
+  }
+}
