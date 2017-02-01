@@ -1,4 +1,6 @@
+[![Build Status](https://travis-ci.org/kumarmj/bunk-o-meter.svg?branch=master)](https://travis-ci.org/kumarmj/bunk-o-meter)
 [![codebeat badge](https://codebeat.co/badges/916cd4a1-c6c2-457f-b904-696fdf70b9f8)](https://codebeat.co/projects/github-com-kumarmj-bunk-o-meter)
+
 # Bunk-o-meter
 
 ## Setting up Project
