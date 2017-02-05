@@ -28,7 +28,7 @@
   var showToastButton = document.querySelector('#demo-show-toast');
   showToastButton.addEventListener('click', function() {
     'use strict';
-    var data = {message: 'total bunks so far' + ++counter};
+    var data = {message: 'total bunks so far:' + ++counter};
     snackbarContainer.MaterialSnackbar.showSnackbar(data);
   });
 }());
